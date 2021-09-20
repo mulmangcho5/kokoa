@@ -8,8 +8,9 @@
     align-items: center;
 }
 .icon-row__icon i {
-    font-size: 35px;
+    font-size: 32px;
 }
 .icon-row__icon span{
     margin-top: 18px;
+    font-size: 14px;
 }
