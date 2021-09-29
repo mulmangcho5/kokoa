@@ -166,3 +166,10 @@
 .reply:focus-within {
     transform: translateY(80px);
 }
+
+
+.fa-plus-square,
+.fa-kiss-wink-heart,
+.fa-arrow-up {
+    cursor: pointer;
+}
